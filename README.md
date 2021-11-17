@@ -1,7 +1,10 @@
 # NekoDev
 ```
 Architecture 2021.08.08 ~
-System Requirement - Framework(CRUD, Components), Utilities(DBUtil, CovertUtil), HTTPS, OAuth 2.0
+System Requirement
+Framework - CRUD, Components etc
+Utilities - DBUtil, CovertUtil etc
+Security - HTTPS, OAuth 2.0
 Support DB - Oracle, MS-SQL
 Use JDK - OpenJDK 11
 ```
