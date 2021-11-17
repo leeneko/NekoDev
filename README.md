@@ -1,7 +1,7 @@
 # NekoDev
 ```
 Architecture 2021.08.08 ~
-Framework(CRUD, Components), Utilities(DBUtil, CovertUtil)
+System Requirement - Framework(CRUD, Components), Utilities(DBUtil, CovertUtil), HTTPS, OAuth 2.0
 Support DB - Oracle, MS-SQL
 Use JDK - OpenJDK 11
 ```
@@ -12,9 +12,12 @@ Use JDK - OpenJDK 11
 - Swagger
 - Slf4j
 - Lombok
+
 ## VSCode (NekoUI - React.js)
--
+- 
+
 ## Visual Studio (NekoOI - C#)
--
+- 
+
 ## Android Studio (NekoAndroid - Java)
--
+- 
