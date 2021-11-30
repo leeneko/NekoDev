@@ -15,13 +15,18 @@ Use JDK - OpenJDK 11
 - Swagger
 - Slf4j
 - Lombok
-- Hibernate vs MyBatis
+- MyBatis
+- PostgreSQL
 
 ## VSCode (NekoUI - React.js)
-- 
+- npm
+- PostgreSQL
 
 ## Visual Studio (NekoOI - C#)
-- 
+- PostgreSQL
 
 ## Android Studio (NekoAndroid - Java)
-- 
+- PostgreSQL
+
+## Algorithm Learning
+- https://programmers.co.kr/
