@@ -15,6 +15,7 @@ Use JDK - OpenJDK 11
 - Swagger
 - Slf4j
 - Lombok
+- Hibernate vs MyBatis
 
 ## VSCode (NekoUI - React.js)
 - 
